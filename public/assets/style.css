@@ -11,3 +11,14 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
+#parent{
+    display: flex
+}
+#uneaten{
+    align-items: flex-start;
+    margin-right: 1em;
+}
+#eaten{
+    align-items: flex-end;
+    margin-left: 1em;
+}
