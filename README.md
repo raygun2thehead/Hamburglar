@@ -5,7 +5,7 @@
  ### Images
  ![App with burgers on each side depending on devoured status](./public/images/one.png)
  ### Deployment
- [Heroku Deployment](https://warm-hollows-19672.herokuapp.com/)
+ [Heroku Deployment](https://peaceful-springs-80256.herokuapp.com/)
 ## Table of contents 
  - [Installation](#installation) 
  - [Usage](#usage) 
